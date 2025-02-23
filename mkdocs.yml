@@ -6,4 +6,6 @@ theme:
   palette:
     primary: red
     accent: deep orange
+extra:
+  generator: false
 copyright: 版权所有 &copy; 2025 Perifural 嵌入式系统
