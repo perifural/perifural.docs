@@ -1,4 +1,4 @@
-site_name: Perifural Docs
+site_name: Perifural 文档
 site_url: https://docs.perifural.com
 theme:
   name: material
@@ -6,4 +6,4 @@ theme:
   palette:
     primary: red
     accent: deep orange
-copyright: Copyright &copy; 2025 Perifural Embedded Systems
+copyright: 版权所有 &copy; 2025 Perifural 嵌入式系统
