@@ -2,6 +2,7 @@ site_name: Perifural Docs
 site_url: https://docs.perifural.com
 theme:
   name: material
+  language: zh
   palette:
     primary: red
     accent: deep orange
