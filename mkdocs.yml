@@ -1,0 +1,7 @@
+site_name: Perifural Docs
+site_url: https://docs.perifural.com
+theme:
+  name: material
+  palette:
+    primary: red
+    accent: deep orange
